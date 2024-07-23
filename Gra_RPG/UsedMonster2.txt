@@ -1,0 +1,15 @@
+1 33;45;22;39;33 "Pajπk drzewny" 1 18 Goblin Hunter 31
+2 31;20;30;32;24 "Raptor ryczπcy" 1 17 Human Warrior 32
+3 35;30;23;36;31 "Bazyliszek ognisty" 1 18 Human Hunter 33
+4 2;2;2;2;2 "Pirat Krwawonos" 1 1 Human Warrior 41
+5 2;2;2;2;2 "åwiniocyklop" 1 1 Dwarf Warrior 42
+6 2;2;2;2;2 "Wúciek≥y niedüwiedü brunatny" 1 1 Goblin Warrior 43
+7 10;15;8;10;14 "Monstrualny nietoperz" 1 7 Dwarf Hunter 51
+8 15;7;10;13;10 "GÛrski troll" 1 6 Dwarf Warrior 52
+9 10;11;10;11;11 "Wielka stopa" 1 5 Goblin Hunter 53
+10 2;2;2;2;2 "Przybysz z obcej planety" 1 1 Human Mage 61
+11 2;2;2;2;2 "Nietoperz pylisty" 1 1 Goblin Hunter 62
+12 2;2;2;2;2 "ånieøny wilk" 1 1 Goblin Warrior 63
+13 2;2;2;2;2 "Czarny upiÛr" 1 1 Dwarf Mage 71
+14 2;2;2;2;2 "Obrzydliwy oøywieniec" 1 1 Goblin Warrior 72
+15 2;2;2;2;2 "Skorpion cienisty" 1 1 Goblin Hunter 73

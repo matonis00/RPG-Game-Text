@@ -1,0 +1,15 @@
+1 "Do ruin " "W ruinach zgubil sie Minotaur, pomoz go znalezc (to chyba kiepski pomysl). " 5742 28 1
+2 "Do wytworni filmowej " "Quentin Tarantino zostal osaczony przez postaci ze swojego filmu, pomoz mu uciec. " 6102 35 2
+3 "Na Titan " "Szalona sliwka zbiera kamienie, aby zniszczyc swiat, musisz go pokonac. " 5580 27 3
+4 "Do zamku " "O tak jest tam ksiezniczka piekna, trzeba ja uratowac. " 398 4 4
+5 "Na polibude " "Napisz program na bazie gry RPG, ale lepszy od niej. A sorry juz to zrobiles. " 302 4 5
+6 "Idz zagrac w sudoku " "Odnajdz niefrasobliwe cyferki. " 363 4 6
+7 "Do magazynu " "Zachodza tam zbyt duze procesy myslowe, powstrzymaj je. " 1638 22 7
+8 "Do ruin " "W ruinach zgubil sie Minotaur, pomoz go znalezc (to chyba kiepski pomysl). " 1862 26 8
+9 "Do innej karczmy " "Musisz popracowac jako kelner i nie dac sie zabic oraz dbac, aby szklanki zawsze pachnialy jajkiem. " 2219 22 9
+10 "Nad wode " "Ale tam jest duzo zlych ludzi, dzieki twojej pomocy ich pokonamy. " 378 4 10
+11 "Do Vegas " "Zgubilismy faceta. Pomoz nam go znalezc. PS. jutro bierze slub. " 211 4 11
+12 "Nad wode " "Ale tam jest duzo zlych ludzi, dzieki twojej pomocy ich pokonamy. " 336 4 12
+13 "Magiczne tabletki " "Od mistrza Morfeusza przynies mi tabletke, nie umiem sie zdecydowac czy czerwona czy niebieska, wybierz sam. " 237 4 13
+14 "Do lasu " "Grasuje tu Piekielny Czerwony Kapturek z Koszem Obfitosci, ktorego trzeba zlapac bo zje wilka. " 270 4 14
+15 "Do automatu " "Ksieciusiowi chce sie jesc, kup mu czekoladke. " 201 4 15

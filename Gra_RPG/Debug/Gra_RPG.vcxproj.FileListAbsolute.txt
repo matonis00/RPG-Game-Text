@@ -1,0 +1,6 @@
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Debug\Gra_RPG.exe
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Debug\Gra_RPG.pdb
+C:\Users\maton\Documents\GitHub\fe95ae66-gr22-repo\Projekt\Gra_RPG\Debug\Gra_RPG.exe
+C:\Users\maton\Documents\GitHub\fe95ae66-gr22-repo\Projekt\Gra_RPG\Debug\Gra_RPG.pdb
+C:\Users\maton\Documents\GitHub\Gra_RPG\Debug\Gra_RPG.exe
+D:\GIT\RPG\RPG-Game-Text\Gra_RPG\Debug\Gra_RPG.exe

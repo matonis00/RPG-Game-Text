@@ -1,0 +1,48 @@
+﻿  Account_Data.cpp
+  Armor.cpp
+  Character.cpp
+  Data_base.cpp
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Data_base.cpp(245,21): warning C4101: "v_t_ptrM": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Data_base.cpp(506,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Data_base.cpp(514,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Data_base.cpp(522,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Data_base.cpp(577,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Data_base.cpp(579,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Data_base.cpp(587,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Dungeon.cpp
+  Equipment.cpp
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Equipment.cpp(28,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Equipment.cpp(113,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Equipment.cpp(126,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Fight.cpp
+  Function.cpp
+  Gra_RPG.cpp
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Gra_RPG.cpp(7,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Hero.cpp
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Hero.cpp(154,55): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Hero.cpp(179,27): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Hero.cpp(191,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Hero.cpp(199,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Hero.cpp(206,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+  Inn.cpp
+  Item.cpp
+  Merchant.cpp
+  Monster.cpp
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Monster.cpp(86,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Monster.cpp(87,27): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Monster.cpp(95,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Monster.cpp(102,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Monster.cpp(109,23): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Monster.cpp(160,54): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  Quest.cpp
+  Struct.cpp
+  Weapon.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Hero.cpp(130): warning C4715: "Hero::Get_HP”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Monster.cpp(136): warning C4715: "Monster::Get_HP”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Data_base.cpp(527): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej: tmp
+C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Equipment.cpp(138): warning C4715: "Equipment::Add_Item”: niewszystkie ścieżki kodu zwracają wartość
+  All 1558 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Gra_RPG.vcxproj -> C:\Users\maton\Documents\GitHub\Nowy folder\podzial\Gra_RPG\Release\Gra_RPG.exe

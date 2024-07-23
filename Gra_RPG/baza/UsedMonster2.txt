@@ -1,0 +1,48 @@
+1 37;30;26;34;26 "Potwornie choleryczny zaj¹c" 1 15 Human Warrior 31
+2 40;32;20;28;23 "MroŸny aligator" 1 17 Dwarf Warrior 32
+3 40;19;21;33;17 "Szkaradny demon" 1 16 Dwarf Warrior 33
+4 20;5;13;23;4 "Cyrez z Maka" 30 5 Ork Warrior 42
+5 10;20;13;23;4 "Aga z Bagien" 30 5 Dwarf Hunter 43
+6 10;20;13;23;4 "Juda Wóda" 30 5 Undead Hunter 44
+7 7;12;11;11;10 "Mulisty blob" 1 6 Goblin Mage 52
+8 7;15;9;13;11 "Podstêpny wampir" 1 6 Goblin Hunter 53
+9 12;8;13;8;15 "Rosiczka leœna" 1 6 Human Mage 54
+10 4;5;6;6;5 "Zgni³ozielony gremlin" 1 3 Goblin Hunter 62
+11 2;2;2;2;2 "Kamienny troll" 1 1 Goblin Warrior 63
+12 4;3;4;3;5 "Potwornie okrutny zaj¹c" 1 2 Goblin Mage 64
+13 2;2;2;2;2 "Szkielet-¿o³nierz" 1 1 Goblin Warrior 72
+14 2;2;2;2;2 "Szary centaur" 1 1 Goblin Warrior 73
+15 2;2;2;2;2 "R¹bniêty rabuœ" 1 1 Goblin Hunter 74
+16 7;5;4;7;6 "Krokodyl mulisty" 1 3 Goblin Warrior 83
+17 8;8;10;9;7 "Tygrys" 1 5 Human Hunter 84
+18 11;8;8;11;6 "Smok ciemnoœci" 1 5 Dwarf Warrior 85
+19 2;2;2;2;2 "Zgni³ozielony gremlin" 1 1 Goblin Hunter 93
+20 2;2;2;2;2 "Potwornie morderczy zaj¹c" 1 1 Goblin Hunter 94
+21 2;2;2;2;2 "Piekielny obcy" 1 1 Dwarf Mage 95
+22 2;2;2;2;2 "Olbrzymi smok" 1 1 Human Warrior 103
+23 2;2;2;2;2 "Okrutna tarantula" 1 1 Human Hunter 104
+24 2;2;2;2;2 "Piaskowy blob" 1 1 Goblin Mage 105
+25 2;2;2;2;2 "Potwornie okrutny zaj¹c" 1 1 Goblin Mage 113
+26 2;2;2;2;2 "Mroczny obcy" 1 1 Goblin Mage 114
+27 2;2;2;2;2 "Kobra pluj¹ca" 1 1 Goblin Hunter 115
+28 2;2;2;2;2 "WiedŸma" 1 1 Human Mage 123
+29 2;2;2;2;2 "Piekielny obcy" 1 1 Goblin Mage 124
+30 2;2;2;2;2 "Potwornie choleryczny zaj¹c" 1 1 Human Warrior 125
+31 7;12;8;8;9 "Zgni³ozielony gremlin" 1 5 Goblin Hunter 133
+32 9;5;6;10;8 "Wœciek³e psisko" 1 4 Goblin Warrior 134
+33 6;4;4;6;5 "Posêpny wilk" 1 3 Human Warrior 135
+34 2;2;2;2;2 "Burza piaskowa" 1 1 Goblin Hunter 143
+35 2;2;2;2;2 "Wodny glompf" 1 1 Human Hunter 144
+36 2;2;2;2;2 "Ma³y zielony cz³owieczek" 1 1 Goblin Mage 145
+37 2;2;2;2;2 "Tygrys" 1 1 Goblin Hunter 153
+38 2;2;2;2;2 "Z³y kradziej" 1 1 Goblin Hunter 154
+39 2;2;2;2;2 "Hiena cmentarna" 1 1 Goblin Hunter 155
+40 2;2;2;2;2 "Jadowity smok" 1 1 Human Warrior 163
+41 2;2;2;2;2 "Chciwy gremlin" 1 1 Human Hunter 164
+42 2;2;2;2;2 "Dragor mrozu" 1 1 Goblin Warrior 165
+43 2;2;2;2;2 "Ludojad" 1 1 Goblin Warrior 173
+44 2;2;2;2;2 "Kapturnik" 1 1 Goblin Mage 174
+45 2;2;2;2;2 "Wœciek³y wilk" 1 1 Goblin Warrior 175
+46 2;2;2;2;2 "Paj¹k drzewny" 1 1 Goblin Hunter 183
+47 2;2;2;2;2 "R¹bniêty rabuœ" 1 1 Goblin Hunter 184
+48 2;2;2;2;2 "Blob wulkaniczny" 1 1 Human Mage 185

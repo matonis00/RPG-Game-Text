@@ -1,0 +1,48 @@
+1 "Pojdz do wulkanu " "Twoj wuj podarowal ci dziwny pierscien, chwile po tym do twojego domu wbija stary, wysoki dziad i kaze go spalic w wulkanie. Bierzesz ze soba ogrodnika i zasuwasz do wulkanu. " 6324 20 1
+2 "Idz zagrac w sudoku " "Odnajdz niefrasobliwe cyferki. " 3825 28 2
+3 "Magiczne tabletki " "Od mistrza Morfeusza przynies mi tabletke, nie umiem sie zdecydowac czy czerwona czy niebieska, wybierz sam. " 6205 32 3
+4 "Kappa ICE" "Description4" 13 51 4
+5 "Lodowe zbiry" "Description5" 50 13 5
+6 "Och Ohc" "Description6" 66 33 6
+7 "Do zamku" "O tak jest tam ksiezniczka piekna,trzeba ja uratowac" 3056 8 7
+8 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 2808 11 8
+9 "Do zamku" "O tak jest tam ksiezniczka piekna,trzeba ja uratowac" 3104 11 9
+10 "Do zamku" "O tak jest tam ksiezniczka piekna,trzeba ja uratowac" 906 5 10
+11 "W gory" "Jest tam sporo golemowi trzeba im wkopac.Bo tak." 741 5 11
+12 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 1074 6 12
+13 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 289 3 13
+14 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 381 3 14
+15 "W gory" "Jest tam sporo golemowi trzeba im wkopac.Bo tak." 373 3 15
+16 "Do zamku" "O tak jest tam ksiezniczka piekna,trzeba ja uratowac" 1260 10 16
+17 "W gory" "Jest tam sporo golemowi trzeba im wkopac.Bo tak." 1635 10 17
+18 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 1920 10 18
+19 "Do zamku" "O tak jest tam ksiezniczka piekna,trzeba ja uratowac" 306 3 19
+20 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 382 3 20
+21 "W gory" "Jest tam sporo golemowi trzeba im wkopac.Bo tak." 334 3 21
+22 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 328 3 22
+23 "Do zamku" "O tak jest tam ksiezniczka piekna,trzeba ja uratowac" 251 3 23
+24 "Do zamku" "O tak jest tam ksiezniczka piekna,trzeba ja uratowac" 345 3 24
+25 "Do zamku" "O tak jest tam ksiezniczka piekna,trzeba ja uratowac" 584 4 25
+26 "W gory" "Jest tam sporo golemowi trzeba im wkopac.Bo tak." 756 4 26
+27 "Do zamku" "O tak jest tam ksiezniczka piekna,trzeba ja uratowac" 478 5 27
+28 "W gory" "Jest tam sporo golemowi trzeba im wkopac.Bo tak." 310 3 28
+29 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 265 3 29
+30 "W gory" "Jest tam sporo golemowi trzeba im wkopac.Bo tak." 265 3 30
+31 "W gory" "Jest tam sporo golemowi trzeba im wkopac.Bo tak." 1930 9 31
+32 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 1975 8 32
+33 "W gory" "Jest tam sporo golemowi trzeba im wkopac.Bo tak." 1410 8 33
+34 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 249 3 34
+35 "Do zamku" "O tak jest tam ksiezniczka piekna,trzeba ja uratowac" 382 3 35
+36 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 220 3 36
+37 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 344 3 37
+38 "W gory" "Jest tam sporo golemowi trzeba im wkopac.Bo tak." 330 3 38
+39 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 315 3 39
+40 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 207 3 40
+41 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 317 3 41
+42 "Do zamku" "O tak jest tam ksiezniczka piekna,trzeba ja uratowac" 306 3 42
+43 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 316 3 43
+44 "W gory" "Jest tam sporo golemowi trzeba im wkopac.Bo tak." 353 3 44
+45 "W gory" "Jest tam sporo golemowi trzeba im wkopac.Bo tak." 266 3 45
+46 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 338 3 46
+47 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 381 3 47
+48 "Nad wode" "Ale tam bylo duzo zlych ludzi,Dzieki twojej popocy ich pokonamy." 279 3 48
